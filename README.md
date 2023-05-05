@@ -11,5 +11,6 @@ Then save the file, close it and close the terminal then reopen it.
 To run motor_cerebra node
 ```
 git clone https://github.com/mazeninvent/Pib-ROS2.git
+cd Pib-ROS2
 ros2 run pib_motors motor_cerebra
 ```
