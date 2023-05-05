@@ -14,3 +14,5 @@ git clone https://github.com/mazeninvent/Pib-ROS2.git
 cd Pib-ROS2
 ros2 run pib_motors motor_cerebra
 ```
+
+cc Isento GmbH
